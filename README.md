@@ -1,6 +1,3 @@
-Here is a more detailed **README** file that walks through the steps based on the information from the article:
-
----
 
 # Stock Price Scraper Using Python
 
